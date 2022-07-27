@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first HTML project, and my first project ever coded. I will have demonstrated a basic understanding of HTML upon finishing this project, and a basic understanding of Git upon submitting it. Thank you to The Odin Project for the free knowledge.
